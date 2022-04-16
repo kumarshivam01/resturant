@@ -1,0 +1,11 @@
+.select_rating{
+  width: 220px;
+  font-size: 25px;
+  padding: 10px;
+  outline: none;
+}
+.select_rating>option{
+  background-color: blue;
+  color: white;
+  
+}
